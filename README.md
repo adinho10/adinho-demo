@@ -1,4 +1,4 @@
-# adinho-demo
+cd# adinho-demo
 this is my first repository
 <br>
-author-Aditya dwivedi
+author-Aditya (apna college)
